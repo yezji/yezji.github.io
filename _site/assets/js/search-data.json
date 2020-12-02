@@ -1,0 +1,134 @@
+{"0": {
+    "doc": "Algorithm",
+    "title": "Algorithm",
+    "content": "To make it as easy as possible to write documentation in plain Markdown, most UI components are styled using default Markdown elements with few additional CSS classes needed. ",
+    "url": "http://localhost:4000/blog/docs/algorithm",
+    "relUrl": "/docs/algorithm"
+  },"1": {
+    "doc": "Android",
+    "title": "Android",
+    "content": "CSS utility classes come in handy when you to want to override default styles to create additional whitespace (margins/padding), correct unexpected shifts in font size or weight, add color, or hide (or show) something at a specific screen size. ",
+    "url": "http://localhost:4000/blog/docs/android",
+    "relUrl": "/docs/android"
+  },"2": {
+    "doc": "Array",
+    "title": "Array",
+    "content": " ",
+    "url": "http://localhost:4000/blog/docs/data-structure/array/",
+    "relUrl": "/docs/data-structure/array/"
+  },"3": {
+    "doc": "Array",
+    "title": "Table of contents",
+    "content": ". | Basic button styles . | Links that look like buttons | . | . ",
+    "url": "http://localhost:4000/blog/docs/data-structure/array/#table-of-contents",
+    "relUrl": "/docs/data-structure/array/#table-of-contents"
+  },"4": {
+    "doc": "Array",
+    "title": "Basic button styles",
+    "content": "Links that look like buttons . Link button . Link button Link button Link button . Link button . [Link button](http://example.com/){: .btn } [Link button](http://example.com/){: .btn .btn-purple } [Link button](http://example.com/){: .btn .btn-blue } [Link button](http://example.com/){: .btn .btn-green } [Link button](http://example.com/){: .btn .btn-outline } . ",
+    "url": "http://localhost:4000/blog/docs/data-structure/array/#basic-button-styles",
+    "relUrl": "/docs/data-structure/array/#basic-button-styles"
+  },"5": {
+    "doc": "Baekjoon",
+    "title": "백준",
+    "content": "To make it as easy as possible to write documentation in plain Markdown, most UI components are styled using default Markdown elements with few additional CSS classes needed. ",
+    "url": "http://localhost:4000/blog/docs/online-judge/baekjoon/baekjoon/#%EB%B0%B1%EC%A4%80",
+    "relUrl": "/docs/online-judge/baekjoon/baekjoon/#백준"
+  },"6": {
+    "doc": "Baekjoon",
+    "title": "Baekjoon",
+    "content": " ",
+    "url": "http://localhost:4000/blog/docs/online-judge/baekjoon/baekjoon/",
+    "relUrl": "/docs/online-judge/baekjoon/baekjoon/"
+  },"7": {
+    "doc": "C++",
+    "title": "C++",
+    "content": "To make it as easy as possible to write documentation in plain Markdown, most UI components are styled using default Markdown elements with few additional CSS classes needed. ",
+    "url": "http://localhost:4000/blog/docs/cpp",
+    "relUrl": "/docs/cpp"
+  },"8": {
+    "doc": "Data structure",
+    "title": "Data structure",
+    "content": "To make it as easy as possible to write documentation in plain Markdown, most UI components are styled using default Markdown elements with few additional CSS classes needed. ",
+    "url": "http://localhost:4000/blog/docs/data-structure",
+    "relUrl": "/docs/data-structure"
+  },"9": {
+    "doc": "Markdown kitchen sink",
+    "title": "Header 1",
+    "content": "This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. ",
+    "url": "http://localhost:4000/blog/docs/index-test/#header-1",
+    "relUrl": "/docs/index-test/#header-1"
+  },"10": {
+    "doc": "Markdown kitchen sink",
+    "title": "Header 2",
+    "content": "This is a blockquote following a header. When something is important enough, you do it even if the odds are not in your favor. Header 3 . // Javascript code with syntax highlighting. var fun = function lang(l) { dateformat.i18n = require('./lang/' + l) return true; } . # Ruby code with syntax highlighting GitHubPages::Dependencies.gems.each do |gem, version| s.add_dependency(gem, \"= #{version}\") end . Header 4 with code not transformed . | This is an unordered list following a header. | This is an unordered list following a header. | This is an unordered list following a header. | . Header 5 . | This is an ordered list following a header. | This is an ordered list following a header. | This is an ordered list following a header. | . Header 6 . | head1 | head two | three | . | ok | good swedish fish | nice | . | out of stock | good and plenty | nice | . | ok | good oreos | hmm | . | ok | good zoute drop | yumm | . There’s a horizontal rule below this. Here is an unordered list: . | Item foo | Item bar | Item baz | Item zip | . And an ordered list: . | Item one | Item two | Item three | Item four | . And a nested list: . | level 1 item . | level 2 item | level 2 item . | level 3 item | level 3 item | . | . | level 1 item . | level 2 item | level 2 item | level 2 item | . | level 1 item . | level 2 item | level 2 item | . | level 1 item | . Nesting an ol in ul in an ol . | level 1 item (ul) . | level 2 item (ol) | level 2 item (ol) . | level 3 item (ul) | level 3 item (ul) | . | . | level 1 item (ul) . | level 2 item (ol) | level 2 item (ol) . | level 3 item (ul) | level 3 item (ul) | . | level 4 item (ol) | level 4 item (ol) . | level 3 item (ul) | level 3 item (ul) | . | . | level 1 item (ul) | . And a task list . | Hello, this is a TODO item | Hello, this is another TODO item | Goodbye, this item is done | . Small image . Large image . Definition lists can be used with HTML syntax. Name Godzilla Born 1952 Birthplace Japan Color Green Multiple description terms and values . Term Brief description of Term Longer Term Longer description of Term, possibly more than one line Term First description of Term, possibly more than one line Second description of Term, possibly more than one line . Term1 Term2 Single description of Term1 and Term2, possibly more than one line Term1 Term2 First description of Term1 and Term2, possibly more than one line Second description of Term1 and Term2, possibly more than one line . More code . Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this. The final element. ",
+    "url": "http://localhost:4000/blog/docs/index-test/#header-2",
+    "relUrl": "/docs/index-test/#header-2"
+  },"11": {
+    "doc": "Markdown kitchen sink",
+    "title": "Markdown kitchen sink",
+    "content": "Text can be bold, italic, or strikethrough. There should be whitespace between paragraphs. There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. ",
+    "url": "http://localhost:4000/blog/docs/index-test/",
+    "relUrl": "/docs/index-test/"
+  },"12": {
+    "doc": "Home",
+    "title": "개발 공부 기록 블로그",
+    "content": "컴퓨터공학 전공자이며 Android, Web, DL를 공부하고 있습니다. ",
+    "url": "http://localhost:4000/blog/#%EA%B0%9C%EB%B0%9C-%EA%B3%B5%EB%B6%80-%EA%B8%B0%EB%A1%9D-%EB%B8%94%EB%A1%9C%EA%B7%B8",
+    "relUrl": "/#개발-공부-기록-블로그"
+  },"13": {
+    "doc": "Home",
+    "title": "contact",
+    "content": ". | Email | . ",
+    "url": "http://localhost:4000/blog/#contact",
+    "relUrl": "/#contact"
+  },"14": {
+    "doc": "Home",
+    "title": "Home",
+    "content": " ",
+    "url": "http://localhost:4000/blog/",
+    "relUrl": "/"
+  },"15": {
+    "doc": "Java",
+    "title": "Java",
+    "content": "To make it as easy as possible to write documentation in plain Markdown, most UI components are styled using default Markdown elements with few additional CSS classes needed. ",
+    "url": "http://localhost:4000/blog/docs/java",
+    "relUrl": "/docs/java"
+  },"16": {
+    "doc": "Network",
+    "title": "Network",
+    "content": "To make it as easy as possible to write documentation in plain Markdown, most UI components are styled using default Markdown elements with few additional CSS classes needed. ",
+    "url": "http://localhost:4000/blog/docs/network",
+    "relUrl": "/docs/network"
+  },"17": {
+    "doc": "Online Judge",
+    "title": "Online Judge 문제 풀이",
+    "content": "To make it as easy as possible to write documentation in plain Markdown, most UI components are styled using default Markdown elements with few additional CSS classes neededs . ",
+    "url": "http://localhost:4000/blog/docs/online-judge#online-judge-%EB%AC%B8%EC%A0%9C-%ED%92%80%EC%9D%B4",
+    "relUrl": "/docs/online-judge#online-judge-문제-풀이"
+  },"18": {
+    "doc": "Online Judge",
+    "title": "Online Judge",
+    "content": " ",
+    "url": "http://localhost:4000/blog/docs/online-judge",
+    "relUrl": "/docs/online-judge"
+  },"19": {
+    "doc": "Python",
+    "title": "Python",
+    "content": "To make it as easy as possible to write documentation in plain Markdown, most UI components are styled using default Markdown elements with few additional CSS classes needed. ",
+    "url": "http://localhost:4000/blog/docs/python",
+    "relUrl": "/docs/python"
+  },"20": {
+    "doc": "STL",
+    "title": "C++ STL",
+    "content": "To make it as easy as possible to write documentation in plain Markdown, most UI components are styled using default Markdown elements with few additional CSS classes needed. ",
+    "url": "http://localhost:4000/blog/docs/cpp/stl/stl/#c-stl",
+    "relUrl": "/docs/cpp/stl/stl/#c-stl"
+  },"21": {
+    "doc": "STL",
+    "title": "STL",
+    "content": " ",
+    "url": "http://localhost:4000/blog/docs/cpp/stl/stl/",
+    "relUrl": "/docs/cpp/stl/stl/"
+  }
+}
