@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Anything
 description: Notes what I learned
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "/yezji" # the subpath of your site, e.g. /blog
 url: "https://yezji.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
