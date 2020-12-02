@@ -4,7 +4,13 @@ layout: table_wrappers
 
 <!DOCTYPE html>
 
-<html lang="{{ site.lang | default: 'en-US' }}">
+{% capture prefer_mode %}
+  {% if site.color_scheme != "nil" %}
+    mode="{{ site.color_scheme }}"
+  {% endif %}
+{% endcapture %}
+
+<html lang="{{ site.lang | default: 'en-US' }} {{prefer_mode}}">
 {% include head.html %}
 <body>
   <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
@@ -80,6 +86,12 @@ layout: table_wrappers
           }
         });
       </script> -->
+
+      {% if site.color_scheme == 'nil' %}
+      <span id="mode-toggle-wrapper">
+        {% include mode-toggle.html %}
+      </span>
+      {% endif %}
 
     </footer>
   </div>
