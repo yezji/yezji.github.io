@@ -1,12 +1,13 @@
 ---
 layout: default
-title: Baekjoon
+title: Python
+nav_order: 7
+parent: Language
 has_children: true
-nav_order: 1
-parent: Online Judge
+permalink: /docs/python
 ---
 
-# 백준
+# Python
 
 To make it as easy as possible to write documentation in plain Markdown, most UI components are styled using default Markdown elements with few additional CSS classes needed.
 {: .fs-6 .fw-300 }
