@@ -110,6 +110,10 @@
 }
 
 .site-title {
+  // custom font
+  @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,900&display=swap');
+  font-family: 'Lato', sans-serif;
+
   @include container;
   flex-grow: 1;
   display: flex;
@@ -128,8 +132,8 @@
 
 @if variable-exists(logo) {
   .site-logo {
-    width: 100%;
-    height: 100%;
+    width: 60%;
+    height: 60%;
     background-image: url($logo);
     background-repeat: no-repeat;
     background-position: left center;

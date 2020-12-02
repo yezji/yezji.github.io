@@ -66,7 +66,21 @@ layout: table_wrappers
       {% endif %}
     </nav>
     <footer class="site-footer">
-      This site uses <a href="https://github.com/pmarsceill/just-the-docs">Just the Docs</a>, a documentation theme for Jekyll.
+
+      <!-- <button class="btn js-toggle-dark-mode">Preview dark color side</button>
+      <script>
+        const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
+        jtd.addEvent(toggleDarkMode, 'click', function(){
+          if (jtd.getTheme() === 'dark') {
+            jtd.setTheme('light');
+            toggleDarkMode.textContent = 'Preview dark color scheme';
+          } else {
+            jtd.setTheme('dark');
+            toggleDarkMode.textContent = 'Return to the light side';
+          }
+        });
+      </script> -->
+
     </footer>
   </div>
   <div class="main" id="top">
@@ -74,7 +88,7 @@ layout: table_wrappers
       {% if site.search_enabled != false %}
         <div class="search">
           <div class="search-input-wrap">
-            <input type="text" id="search-input" class="search-input" tabindex="0" placeholder="Search {{ site.title }}" aria-label="Search {{ site.title }}" autocomplete="off">
+            <input type="text" id="search-input" class="search-input" tabindex="0" placeholder="Search it" aria-label="Search it" autocomplete="off">
             <label for="search-input" class="search-label"><svg viewBox="0 0 24 24" class="search-icon"><use xlink:href="#svg-search"></use></svg></label>
           </div>
           <div id="search-results" class="search-results"></div>

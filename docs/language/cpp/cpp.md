@@ -1,12 +1,13 @@
 ---
 layout: default
-title: UI Components
-nav_order: 8
+title: C++
+nav_order: 1
+parent: Language
 has_children: true
-permalink: /docs/ui-components
+permalink: /docs/language/cpp
 ---
 
-# UI Components
+# C++
 
 To make it as easy as possible to write documentation in plain Markdown, most UI components are styled using default Markdown elements with few additional CSS classes needed.
 {: .fs-6 .fw-300 }
